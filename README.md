@@ -7,7 +7,7 @@ I believe in continuous improvement and look for opportunities to learn, to shar
 ## About Me
 
 - 🔭 I’m currently working on: Studying through Andela for my [Google Cloud Associate Engineer Certification](https://cloud.google.com/certification/cloud-engineer) in order to improve my knowledge and skills about deploying applications, monitoring operations, and managing enterprise solutions.
-- 🌱 I’m currently learning: Single page applications with ReactJS that use REST APIs built with Node.js from [Full stack open 2022](https://fullstackopen.com/en/).
+- 🌱 I’m currently learning: Building single page applications with ReactJS that use REST APIs built with Node.js from [Full stack open 2022](https://fullstackopen.com/en/).
 - 🤔 What I want to learn next: Improving my knowledge and skills on REST APIs using [GraphQL](https://fullstackopen.com/en/).
 - 📫 How to reach me: `hello@${myfullname}.com`
 - 😄 Pronouns: he/him
