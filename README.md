@@ -11,7 +11,7 @@ I believe in continuous improvement and look for opportunities to learn, to shar
 - 🤔 What I want to learn next: Improving my knowledge and skills on REST APIs using [GraphQL](https://fullstackopen.com/en/).
 - 📫 How to reach me: `hello@${myfullname}.com`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: fan of <img src="images/starwars-logo.png" width="36">
+- ⚡ Fun fact: Star Wars superfan
 
 ## 🔧 Tools I Like To Use
 
