@@ -1,4 +1,4 @@
-# Antony Ekirapa
+# Antony E
 
 👋 Hi, I'm Antony. I am a Software Engineer at [100 Devs](https://leonnoel.com/100devs/). 
 While studying Information Systems, I found out that what I was truly passionate about was coding. Ever since then, 2021, I have used Software Development both as a hobby as well as to develop products in my life. I like to deliver best quality products working close to the business and with an Agile mindset.
