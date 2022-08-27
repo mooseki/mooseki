@@ -10,7 +10,6 @@ I believe in continuous improvement and look for opportunities to learn, to shar
 - 🌱 I’m currently learning: Building single page applications with ReactJS that use REST APIs built with Node.js from [Full stack open 2022](https://fullstackopen.com/en/).
 - 🤔 What I want to learn next: Improving my knowledge and skills on REST APIs using [GraphQL](https://fullstackopen.com/en/).
 - 📫 How to reach me: `hello@${myfullname}.com`
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Star Wars superfan:superhero_man:
 
 ## 🔧 Tools I Like To Use
